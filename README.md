@@ -19,8 +19,6 @@ Quiz/Trivia application with specific requirements was been asked to be built in
 * Google Fonts
 * Recharts for pie charts
 
-The application has is been included with tests and the components are been run with the <b>tests</b>. The snapshots of the tests are been uploaded in the <b> SnapShots </b> folder above.
-\
 \
 <b>_INSTALLATION/STEP-UP STEPS_:</b>
   * Install React in your Device.
@@ -34,7 +32,7 @@ The application has is been included with tests and the components are been run 
 \
 Have deployed this application in <b> Netlify </b>
 \
-Click the link to open the application https://splendorous-brigadeiros-d53ea5.netlify.app/
+Click the link to open the application https://taupe-sunburst-90ff99.netlify.app/
 \
 (Some parts of the application are not working correctly in the hosted website better run by downloading the zip file)
 \
