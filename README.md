@@ -16,7 +16,6 @@ Click the link to open the application https://taupe-sunburst-90ff99.netlify.app
 * Number of Questions.
 * Category : Computer Science and Applications[fixed].
 
-\
 <b>_Built using:_</b>
 * Nextjs(React)
 * TypeScript
@@ -25,7 +24,6 @@ Click the link to open the application https://taupe-sunburst-90ff99.netlify.app
 * Google Fonts
 * Recharts for pie charts
 
-\
 <b>_INSTALLATION/STEP-UP STEPS_:</b>
   * Install React in your Device.
   * Download the zip file of the project and extract.
