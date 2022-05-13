@@ -32,3 +32,11 @@ Click the link to open the application -> [Link for Hosted Quiz App](https://tau
 
 \
 <b>_Some of the SnapShots are as follows_</b>
+
+![Screenshot (97)](https://user-images.githubusercontent.com/72604642/168290244-69203eff-6a8a-46af-a112-315934b7afa2.png)
+
+
+![Screenshot (98)](https://user-images.githubusercontent.com/72604642/168290290-a010ee1c-c90d-4f75-b9bc-fdafabd65487.png)
+![Screenshot (100)](https://user-images.githubusercontent.com/72604642/168290332-5dfe7bcc-c061-4821-b717-e981da84b531.png)
+![Screenshot (102)](https://user-images.githubusercontent.com/72604642/168290375-f2944703-44e2-45ea-8fe5-3663a6c0d533.png)
+
