@@ -1,0 +1,204 @@
+@import url("https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.level__Header {
+  font-family: "Macondo Swash Caps", cursive;
+  font-size: 27px;
+  font-weight: 599;
+  text-align: center;
+}
+
+.level__Header2 {
+  font-family: "Macondo Swash Caps", cursive;
+  font-size: 27px;
+  font-weight: 599;
+  text-align: center;
+  color: #efefef;
+}
+
+.LevelSelection {
+  max-width: 300px;
+  min-width: 350px;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 35vh;
+  background: transparent;
+  /*background-color: #667cdf;*/
+}
+
+.Button {
+  align-items: center;
+  appearance: none;
+  background-color: #fcfcfd;
+  border-radius: 4px;
+  border-width: 0;
+  box-shadow: rgba(45, 35, 66, 0.4) 0 2px 4px,
+    rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #303068 0 -3px 0 inset;
+  box-sizing: border-box;
+  color: #36395a;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: "JetBrains Mono", monospace;
+  height: 48px;
+  justify-content: center;
+  line-height: 1;
+  list-style: none;
+  overflow: hidden;
+  padding-left: 16px;
+  padding-right: 16px;
+  position: relative;
+  text-align: left;
+  text-decoration: none;
+  transition: box-shadow 0.15s, transform 0.15s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+  will-change: box-shadow, transform;
+  font-size: 18px;
+}
+
+.Button:focus {
+  box-shadow: #d6d6e7 0 0 0 1.5px inset, rgba(45, 35, 66, 0.4) 0 2px 4px,
+    rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #d6d6e7 0 -3px 0 inset;
+}
+
+.Button:hover {
+  box-shadow: rgba(45, 35, 66, 0.4) 0 4px 8px,
+    rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #d6d6e7 0 -3px 0 inset;
+  transform: translateY(-2px);
+}
+
+.Button:active {
+  box-shadow: #d6d6e7 0 3px 7px inset;
+  transform: translateY(2px);
+}
+
+.QuestionCard {
+  width: 100%;
+  height: 100vh;
+}
+
+.display_Score {
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.QuestionIllustration {
+  margin-top: 40px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  height: inherit;
+}
+
+.Photo__Illustration {
+  margin: auto;
+}
+
+.QuestionTemplate {
+  max-width: 400px;
+  min-width: 360px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 100vh;
+  background-color: #efefef;
+}
+
+.QuestionTemplate h2 {
+  font-family: "Overpass", sans-serif;
+  font-size: 22px;
+  text-align: center;
+}
+
+.option_number {
+  font-size: 20px;
+  font-family: "Overpass", sans-serif;
+  width: 100%;
+  padding: 10px;
+}
+
+.option_Each {
+  text-decoration: none;
+  text-align: center;
+}
+
+.Options {
+  list-style: none;
+}
+
+.submit_Button {
+  width: 165px;
+  margin-left: 30px;
+  margin-top: 20px;
+  font-size: 18px;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 5px;
+  border-radius: 4px;
+  color: #3c32ff;
+  border: 1px solid #3c32ff;
+  font-weight: 600;
+  outline: none;
+  transition: 0.4s ease-in-out;
+}
+.submit_Button:active,
+.submit_Button:visited,
+.submit_Button:focus {
+  border: 1px solid #3c32ff;
+  outline: none;
+}
+.submit_Button:hover {
+  background-color: #3c32ff;
+  color: #fff;
+  outline: none;
+}
+
+.Result {
+  height: 80vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.ResultBox {
+  width: 250px;
+  height: 270px;
+  background-color: rgb(105, 87, 185);
+  display: flex;
+  align-items: center;
+  text-align: left;
+  justify-content: space-around;
+  flex-direction: column;
+  box-shadow: 1px 1px 44px rgb(130, 121, 121);
+  margin-bottom: 30px;
+}
+
+.ResultBox span {
+  font-size: large;
+  font-weight: 780;
+  color: #fff;
+}
+
+.Loader {
+  display: flex;
+  height: 100vh;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
