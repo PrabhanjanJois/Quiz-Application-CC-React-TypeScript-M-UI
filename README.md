@@ -20,8 +20,7 @@ Click the link to open the application -> [Link for Hosted Quiz App](https://tau
 * Nextjs(React)
 * TypeScript
 * Material UI
-* opentb API 
-** hdshj
+* opentb API [Know More](https://taupe-sunburst-90ff99.netlify.app/)
 * Recharts for pie charts
 
 <b>_INSTALLATION/STEP-UP STEPS_:</b>
