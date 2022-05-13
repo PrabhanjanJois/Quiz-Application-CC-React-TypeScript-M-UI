@@ -20,8 +20,8 @@ Click the link to open the application -> [Link for Hosted Quiz App](https://tau
 * Nextjs(React)
 * TypeScript
 * Material UI
-* opentb API [Know More](https://taupe-sunburst-90ff99.netlify.app/)
-* Recharts for pie charts
+* opentb API -> [Know More](https://opentdb.com/api_config.php)
+* Recharts for pie charts -> [Know More](https://recharts.org/en-US/api/PieChart)
 
 <b>_INSTALLATION/STEP-UP STEPS_:</b>
   * Install React in your Device.
