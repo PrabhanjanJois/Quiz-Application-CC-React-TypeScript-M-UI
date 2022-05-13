@@ -20,8 +20,8 @@ Click the link to open the application -> [Link for Hosted Quiz App](https://tau
 * Nextjs(React)
 * TypeScript
 * Material UI
-* opentb API
-* Google Fonts
+* opentb API 
+** hdshj
 * Recharts for pie charts
 
 <b>_INSTALLATION/STEP-UP STEPS_:</b>
