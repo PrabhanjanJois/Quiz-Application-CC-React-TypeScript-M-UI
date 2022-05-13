@@ -11,14 +11,13 @@ Quiz/Trivia application with specific requirements was been asked to be built in
 * Number of Questions.
 * Category : Computer Science and Applications[fixed].
 
-## Built using
-
-- Nextjs(React)
-- TypeScript
-- Material UI
-- opentb API
-- Google Fonts
-- Recharts for pie charts
+<b>_ Built using: _</b>
+* Nextjs(React)
+* TypeScript
+* Material UI
+* opentb API
+* Google Fonts
+* Recharts for pie charts
 
 The application has is been included with tests and the components are been run with the <b>tests</b>. The snapshots of the tests are been uploaded in the <b> SnapShots </b> folder above.
 \
