@@ -4,6 +4,10 @@
 Quiz/Trivia application with specific requirements was been asked to be built in second assignment at Cognitive clouds, Here I have made my sncire effort to complete that assignment. 
 \
 \
+Have deployed this application in <b> Netlify </b>
+\
+Click the link to open the application https://taupe-sunburst-90ff99.netlify.app/
+\
 <b>_This Quiz app takes inputs as:_</b>
 * Name.
 * Gender.
@@ -11,6 +15,7 @@ Quiz/Trivia application with specific requirements was been asked to be built in
 * Number of Questions.
 * Category : Computer Science and Applications[fixed].
 
+\
 <b>_Built using:_</b>
 * Nextjs(React)
 * TypeScript
@@ -26,15 +31,6 @@ Quiz/Trivia application with specific requirements was been asked to be built in
   * Open in vs-code or other editor and choose the extracted file.
   * Run <b>npm install</b> in terminal (node modules will get installed).
   * Run <b>npm start</b> in terminal.
-  
-  
 
-\
-Have deployed this application in <b> Netlify </b>
-\
-Click the link to open the application https://taupe-sunburst-90ff99.netlify.app/
-\
-(Some parts of the application are not working correctly in the hosted website better run by downloading the zip file)
-\
 \
 <b>_Some of the SnapShots are as follows_</b>
