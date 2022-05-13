@@ -11,7 +11,7 @@ Quiz/Trivia application with specific requirements was been asked to be built in
 * Number of Questions.
 * Category : Computer Science and Applications[fixed].
 
-<b>_ Built using: _</b>
+<b>_Built using:_</b>
 * Nextjs(React)
 * TypeScript
 * Material UI
