@@ -8,6 +8,7 @@ Have deployed this application in <b> Netlify </b>
 \
 Click the link to open the application https://taupe-sunburst-90ff99.netlify.app/
 \
+\
 <b>_This Quiz app takes inputs as:_</b>
 * Name.
 * Gender.
