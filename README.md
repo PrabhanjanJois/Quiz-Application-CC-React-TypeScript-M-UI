@@ -1,5 +1,5 @@
 # Assignment-2
-# Quiz Application Using React and TypeScript 
+## Quiz Application Using React and TypeScript 
 
 Quiz/Trivia application with specific requirements was been asked to be built in second assignment at Cognitive clouds, Here I have made my sncire effort to complete that assignment. 
 \
